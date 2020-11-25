@@ -38,23 +38,18 @@ SysInfo sysInfo=new SysInfo(this);
 sysInfo.restartApp();
 ```
 
-###### 3. restartApp()
-
-```
-SysInfo sysInfo=new SysInfo(this);
-sysInfo.restartApp();
-```
-
-###### 4. restartApp()
+###### 3. getKeyHash()
 
 ```
 SysInfo sysInfo=new SysInfo(this);
 String keyhash=sysInfo.getKeyHash();
 ```
 
-###### 5. xFullScreen()
-
+###### 4. xFullScreen()
 ```
 SysInfo sysInfo=new SysInfo(this);
 sysInfo.xFullScreen();
 ```
+
+
+
